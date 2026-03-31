@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h3 align="center">
+  Hi, I'm Jesus Robles
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
-**Jexhu/Jexhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on ...
+I am an undergraduate Systems Engineering student at Universidad Privada del Norte (UPN). Python and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Cybersecurity and Machine Learning**
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - C#
+- ✔ Feel free to ask me anything; I’m happy to help within my areas of expertise! 💡<br>
+- I love to play video games 🎮, listen to music 🎵, and spend time with my family 👪.
+- 📫 Reach out to me at: <a href="superysusx189@gmail.com">superysusx189@gmail.com</a>
